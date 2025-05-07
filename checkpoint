@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\Acer\\PycharmProjects\\HGRCNN\\venv\\HandGestureRecognition\\handgest_1"
+all_model_checkpoint_paths: "C:\\Users\\Acer\\PycharmProjects\\HGRCNN\\venv\\HandGestureRecognition\\handgest_1"
